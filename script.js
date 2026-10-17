@@ -7,7 +7,7 @@ const events=[
  {title:"DESTINATION SATURN",date:"Sat 10th Oct 2026",place:"OPEN / SOURCE, Cape Town",price:1350,img:"destination-saturn.jpg",pos:"center",feat:false,status:"on"},
  {title:"RECESS @ TEXAS",date:"Fri 16th Oct 2026",place:"Texas, Cape Town",price:3120,img:"recess-texas.jpg",pos:"top",feat:false,status:"on"},
  {title:"SONAR",date:"Fri 16th Oct 2026",place:"OPEN / SOURCE, Cape Town",price:1180,img:"sonar.jpg",pos:"center",feat:false,status:"on"},
- {title:"Clicks Beauty Playground 2026",date:"Sun 18th Oct 2026",place:"Gallagher Convention Centre, Midrand",price:3250,img:"clicks-beauty-playground.jpg",pos:"center",feat:false,status:"sold",resale:[{seller:"Lwanzi",qty:2,price:650},{seller:"Lwanzi",qty:1,price:650}]},
+ {title:"Clicks Beauty Playground 2026",date:"Sun 18th Oct 2026",place:"Gallagher Convention Centre, Midrand",price:3250,img:"clicks-beauty-playground.jpg",pos:"center",feat:false,status:"sold",resale:[{seller:"Mbatha",qty:2,price:650},{seller:"Mbatha",qty:1,price:650}]},
  {title:"Opaque: Halloween",date:"Sat 17th Oct 2026",place:"Biblio, Cape Town",price:4200,img:"opaque-halloween.jpg",pos:"center",feat:false,status:"on"},
  {title:"MINIMAL",date:"Sat 17th Oct 2026",place:"OPEN / SOURCE, Cape Town",price:1150,img:"minimal.jpg",pos:"top",feat:false,status:"on"},
  {title:"HALF HALF Club",date:"Fri 23rd Oct 2026",place:"Penthouse, Stellenbosch",price:2100,img:"half-half-club.jpg",pos:"center",feat:false,status:"on"},
